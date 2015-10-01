@@ -1,0 +1,2 @@
+# Technical Infrastructure Advisory Committee
+This committee is charges with advising and providing oversight on the DCMI technical infrastructure. The TIAC folder contains resources pertinent to the standing committees charge.
